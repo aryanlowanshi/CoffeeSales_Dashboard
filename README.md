@@ -44,4 +44,5 @@ The dashboard highlights sales trends over time, customer behavior, and market p
 
 -Trend Insights:Sales showed seasonal fluctuations, with noticeable peaks during certain months (e.g., year-end,festive periods). Businesses can align promotions during these spikes.
 
-Examle: ![Dashboard Preview] (https://github.com/aryanlowanshi/CoffeeSales_Dashboard/blob/main/Screenshot%202025-08-22%20144935.png)
+Show what the dashboard looks like. - 
+![Dashboard Preview](https://github.com/aryanlowanshi/CoffeeSales_Dashboard/blob/main/Screenshot%202025-08-22%20144935.png)
